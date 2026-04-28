@@ -2,8 +2,11 @@ asgiref==3.11.0
 certifi==2025.11.12
 charset-normalizer==3.4.4
 Django==6.0
+django-markdown-deux==1.0.6
 idna==3.11
+markdown2==2.5.5
 python-dotenv==1.0.1
 requests==2.32.5
 sqlparse==0.5.5
+tzdata==2026.2
 urllib3==2.6.2
